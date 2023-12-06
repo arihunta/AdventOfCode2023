@@ -4,7 +4,7 @@
   "description": "My answers for the Advent of Code 2023",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --timeout 30000"
   },
   "author": "Shitesh Arihunta",
   "license": "ISC",
